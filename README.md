@@ -1,16 +1,16 @@
-## Hi there 👋
+# Дмитрий Метелица
 
-<!--
-**Exsnipe/Exsnipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="/images/photo.jpg" alt="Мое фото" width="400"/>
+</p>
 
-Here are some ideas to get you started:
+:wave: Привет! Меня зовут Дима.  
+📍 Нахожусь в городе Воронеж.  
+📧 Связь со мной: [exsnipe@yandex.ru](mailto:exsnipe@eyandex.ru)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Образование
+
+### Университет
+- **Специальность**: Радиотехника  
+- **Годы обучения**: 2008–2013
